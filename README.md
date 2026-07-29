@@ -22,6 +22,8 @@ npm run dev
 npm run build
 npm start
 
+```
+
 ## 2. Стек технологий
 
 Backend: Node.js, TypeScript, Express.js
